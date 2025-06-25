@@ -1,5 +1,7 @@
 ![Alt text](AH-64D-TEDAC.png)
 
+# The 3D files and build guide will be updated and available again soon
+
 # DCS-AH-64D-TEDAC (v1)
 This is my TEDAC for the DCS AH-64D Apache
 
