@@ -1,5 +1,10 @@
 ![Alt text](AH-64D-TEDAC.png)
 
+
+# this project ist dead! Check out my new TEDAC! https://github.com/MilKris666/-DCS-AH-64D-TEDAC-v2.0-
+
+
+
 # The 3D files and build guide will be updated and available again soon
 
 # DCS-AH-64D-TEDAC (v1)
